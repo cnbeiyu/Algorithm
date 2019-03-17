@@ -1,20 +1,24 @@
-### 创建于2019.03.18 凌晨 记录下自己的算法练习
-### LanQiao
-
-+-- _config.yml
-+-- _drafts
-|   +-- begin-with-the-crazy-ideas.textile
-|   +-- on-simplicity-in-technology.markdown
-+-- _includes
-|   +-- footer.html
-|   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
+### 说明
+创建于19.03.18凌晨 记录与保存下自己的算法练习
+蓝桥练习参考自《计蒜客-蓝桥杯省赛训练营》
+### 目录结构
+```
+Algorithm
+|
+│ README.md
+│  
+└─LanQiaoExercise
+    ├─02 字符串和日期
+    │      
+    ├─03 sort排序
+    │      
+    ├─04 题解能力提升
+    │      
+    ├─05 枚举
+    │      
+    ├─06 常用std
+    │      
+    ├─07 栈和递归
+    │      
+    └─08 深搜
+```
